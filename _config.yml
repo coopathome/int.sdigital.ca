@@ -1,0 +1,9 @@
+name: Co-op@Home Internal
+url: http://int.sdigital.ca
+description: Co-op@Home Internal Issue Site
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: true
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
